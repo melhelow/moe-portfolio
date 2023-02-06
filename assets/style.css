@@ -1,3 +1,7 @@
+html {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif sans-serif;
+  }
+
 body {
 background-color: #0077b6;
 }
@@ -119,10 +123,10 @@ background-image: url(http://images.fineartamerica.com/images-medium-large/ottom
     text-align: center;
     width: 600px;;
     height: 200px;
-   display: flex;
-   align-items: center;
-   justify-content: space-evenly;
-   text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
     
 }
 .box-3{
@@ -299,4 +303,19 @@ img {
       margin-left: 250px;
       color: brown
 
+  }
+
+  @media screen and (max-width: 600px) {
+    .header a {
+      font-size: 20px;
+    }
+    .header {
+      font-size: 30px;
+    }
+    .banner {
+      height: 100px;
+    }
+     .body {
+        background-color: lightgreen;
+     }
   }
