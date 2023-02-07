@@ -22,6 +22,10 @@ the website contain HTML and CSS and has been pushed to github repostiry, the co
 
 stackoverflow, google, bootcamp
 
+## extra
+
+added Favicon
+
 ## License
 
 please refer to the MIT license in the repo
