@@ -252,9 +252,9 @@ margin: 6px;
 
 }
 
-@media screen and (max-width: 600px) {
+
     @media only screen and (max-width: 600px) {
-        /* Your CSS code for small screen devices */
+     
         .header {
           font-size: 30px;
         }
@@ -292,4 +292,4 @@ margin: 6px;
         }
       }
       
-    }
+  
