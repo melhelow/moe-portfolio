@@ -20,7 +20,7 @@ the website contain HTML and CSS and has been pushed to github repostiry, the co
 
 ## credits
 
-stackoverflow, google, bootcamp
+stackoverflow, google, bootcamp,fine art america.
 
 ## extra
 
