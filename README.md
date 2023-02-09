@@ -17,6 +17,7 @@ in this first project i started the portfolio code from scratch
 the website contain HTML and CSS and has been pushed to github repostiry, the code contain aan asset/images folder.
 
 ![Getting Started](./assets/images/Screenshot%202023-02-06%20154452.png)
+![Getting started](./assets/images/Screenshot%202023-02-08%20202850%20DEPLOYED.png)
 
 ## credits
 
